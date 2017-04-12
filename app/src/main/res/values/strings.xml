@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SoundBoard</string>
+    <string name="title_activity_sound">SoundActivity</string>
+</resources>
